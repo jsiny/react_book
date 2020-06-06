@@ -10,5 +10,5 @@ class ProductList extends React.Component {
 
 ReactDOM.render(
   <ProductList />,
-  document.getElementById('content')
+  document.getElementById("content")
 );
